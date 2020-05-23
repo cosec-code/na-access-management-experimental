@@ -30,7 +30,8 @@ while i< 1000000:
     elif authid == 2:
         access_level = "Basic"
 
-    authorisation.append(access_level)
+    #authorisation.append(access_level)
+    authorisation.append(authid)
 
     first = random.randint(10, 99)
     second = random.randint(10, 99)
@@ -42,7 +43,8 @@ while i< 1000000:
 
     RFID.append(RFIDnum)
     i +=1
-    print(i)
+    if i%1000 == 0:
+        print('{:,}'.format(i) )
 
 print("GENERATION DONE!")
 df = pandas.DataFrame(data={"RFID":RFID, "Name":namelist, "Authorisation_Level": authorisation, "Access code": access_codes})
