@@ -1,1 +1,4 @@
-# log2-access-management
+## log2-access-management
+# Lead by u/Zam
+log2-access-management - On Mars we will have to treat the entire colony as one giant building. Most systems will be interconnected, so first of all we need to distinguish between: colonist personal health and safety, key system protection, workplace health and safety, police services, disaster and accident response, privacy and finally data and information IT system protection. For key systems User Access Management based on typical industrial solutions may be sufficient. RFID based access cards working as keys would be best, as they also allow to identify the user (by ID, so we can make it work while maintaining privacy) and not only identify if they had permission to access, but in case of later issues, system could check what threats each ID may have been exposed to (industrial fumes, sections not shielded from radiation, waste etc.).
+
