@@ -8,3 +8,5 @@ DatabaseCreation/InsertOneMillionRecords_v02.sql
 DatabaseCreation/LoadInFromFile.sql
 fileNoHeader.csv
 save.log
+data/mydb
+databaseConnectionTestSQLite.py
