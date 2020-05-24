@@ -3,3 +3,8 @@ file - Copy (2).csv
 file - Copy.csv
 file.csv
 .vscode/settings.json
+DatabaseCreation/InsertOneMillionRecords.sql
+DatabaseCreation/InsertOneMillionRecords_v02.sql
+DatabaseCreation/LoadInFromFile.sql
+fileNoHeader.csv
+save.log
