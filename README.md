@@ -9,3 +9,5 @@ generator.py: Written by THEWILDOFFICIAL. Contains code for generating a CSV fil
 integrated_read.py: Written by a user on the website Medium. Boilerplate code for the reading of the RFID key.
 
 integrated.py: Written by u/aRandomCheapPerson(pkdecv#5640). Combines integrated_read.py and concept.py.
+
+databaseConnectionTest.py: Written by u/Crof2003.  Proof-of-concept of connecting to a hosted MySQL service.  This would be similar to the proposed final setup of the readers to database servers.  This MySQL database is currently hosted at heliohost.org.
