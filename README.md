@@ -22,3 +22,6 @@ Then, it will log the denied or accepted entry as a INFO level log into a .log f
 Network code for commiting log files.
 Decision on how to implement the framework in itself, since parsing on a RPI3B+ is slow, so separation of reading and sorting(Reading on RPI, Sorting on x86) may be in order.
 Implementation of encryption and decryption.
+
+#### If you want to use the code in a package form, here is a link to a repo with the instructions for the installation and the files:
+https://github.com/PranavKishan213/rfid_parse
