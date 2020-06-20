@@ -46,7 +46,7 @@ class RFID_setup:
                                                             time_logger, "Done by CSV"))
 
 
-p = RFID_setup("21,70,3,214,38")
+p = RFID_setup("21,70,3,214,38") #Random sequence put for testing.
 p.main_processing()
 
 
